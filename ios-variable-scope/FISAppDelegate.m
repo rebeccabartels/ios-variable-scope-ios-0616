@@ -19,10 +19,11 @@
     return YES;
 }
 
-/*
- 
- * Write your method definitions here.
- 
- */
+-(NSMutableArray *)arrayByAddingString:(NSString *)string toArray:(NSMutableArray *)array;
+- for (NSMutableArray *)arrayByAddingString:toArray:
+
+-for (NSUInteger)countOfUppercaseStringsInArray:(NSArray *)array;
+-countOfUppercaseStringsInArray:
+
 
 @end
